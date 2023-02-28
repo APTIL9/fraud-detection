@@ -2,7 +2,7 @@
 This project aims to build a fraud detection system using Support Vector Machine (SVM) to identify fraudulent transactions in a dataset of credit card transactions. The dataset used in this project contains transactions made by European cardholders in September 2013, where 492 out of 284,807 transactions are fraudulent.
 
 ## Dataset
-The dataset used in this project is the Credit Card Fraud Detection dataset from Kaggle. It contains 31 columns, where the features V1 to V28 are the principal components obtained with PCA, and the remaining columns are 'Time', 'Amount', and 'Class'. The 'Class' column is the target variable, where 1 represents a fraudulent transaction and 0 represents a non-fraudulent transaction.
+The dataset used in this project is the [Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud) dataset from Kaggle. It contains 31 columns, where the features V1 to V28 are the principal components obtained with PCA, and the remaining columns are 'Time', 'Amount', and 'Class'. The 'Class' column is the target variable, where 1 represents a fraudulent transaction and 0 represents a non-fraudulent transaction.
 
 ## Functions
 The following functions were implemented in this project:
