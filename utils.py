@@ -7,6 +7,7 @@ from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.svm import SVC
 from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
 from sklearn.metrics import confusion_matrix, classification_report, accuracy_score, roc_curve, auc
+from imblearn.over_sampling import SMOTE
 
 def load_data(file_path):
     data = pd.read_csv(file_path)
