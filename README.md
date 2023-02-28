@@ -23,15 +23,17 @@ To use the functions in this project, simply clone the repository and run the ma
 ## Dependencies
 This project requires the following Python libraries:
 
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
+- imblearn
+
 These libraries can be installed using pip:
 
 ```python
-pip install numpy pandas matplotlib seaborn scikit-learn
+pip install numpy pandas matplotlib seaborn scikit-learn imblearn
 ```
 
 License
