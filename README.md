@@ -18,7 +18,7 @@ The following functions were implemented in this project:
 Using SVM, the model achieved an accuracy score of 0.831, while the ensemble model achieved an accuracy of 0.947. The performance of the models was evaluated using confusion matrices, classification reports, and ROC curves. The best model was chosen based on its ability to minimize false positives and false negatives.
 
 ## Usage
-To use the functions in this project, simply clone the repository and run the main.py file. The main.py file calls the functions in the correct order and prints the results to the console. You can also modify the hyperparameters and other settings in the config.py file to experiment with different configurations.
+To use the functions in this project, simply clone the repository and run the main.py file. The main.py file calls the functions in the correct order and prints the results to the console. You can also modify the hyperparameters and other settings in the config.py file to experiment with different configurations. And download the dataset from the above given link.
 
 ## Dependencies
 This project requires the following Python libraries:
